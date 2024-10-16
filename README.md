@@ -14,11 +14,6 @@ Este projeto exibe um **relógio digital** que mostra a hora atual, minutos, seg
 - **CSS3**
 - **JavaScript (ES6)**
 
-## Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 
 Estrutura do Projeto
